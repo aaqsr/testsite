@@ -5,8 +5,35 @@ body {
         margin: auto;
         padding: 0 2%;
 
-        background-color: #f2f2f2
+        /* font-family: Helvetica, Arial; */
+
+        background-color:
+        /* #f2f2f2 */
+        /* #141314 */
+        #001529
+
+        /* color: #f2f2f2 ; */
+        /* color: #FFFFFF; */
         }
+
+h1 {
+        color:
+        /* #67C152 */
+        #FFE082
+        ;
+}
+
+h2 {
+        color: #21B6AD;
+}
+
+p {
+         color:
+         /* #FFE082 */
+         /* #FFFFFF */
+         #f2f2f2
+         ;
+}
 
 img {
         max-width: 100%;
